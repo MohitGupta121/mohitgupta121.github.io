@@ -76,15 +76,15 @@ _Project Title: Different language resources for Machine Translators in Indian L
 - Implemented barcode scanning and analysis functionality for users to assess IoT device privacy levels based on privacy labels in the Kotlin Android app.
 - Enabled user customization of privacy factor prioritization, ensuring personalized privacy assessments for the same device in the app.
 
-**📱 NewsDo - Github** | _Android, UI/UX Design, Retrofit + OkHttp, Hilt-Dagger, MVVM Architecture, CI/CD_ (_Aug 2022_)
+**📱 NewsDo - [Github](https://github.com/MohitGupta121/NewsDo)** | _Android, UI/UX Design, Retrofit + OkHttp, Hilt-Dagger, MVVM Architecture, CI/CD_ (_Aug 2022_)
 - Developed using Kotlin and follows all modern Android development practices.
 - User-friendly interface with Light/Dark mode. Save news, search news with different categories and all countries' news in one app.
 - Maintained the code quality using GitHub actions for Build, Lint job.
 
-**📱 Disease Detection - Github** | _Java, Kaggle, Teachable Machine Model, Tensorflow Lite_ (_June 2021_)
+**📱 Disease Detection - [Github](https://github.com/MohitGupta121/DiseaseDetection)** | _Java, Kaggle, Teachable Machine Model, Tensorflow Lite_ (_June 2021_)
 - Plant disease detector android app just by taking a photo/pic of a plant.
 
-**📱 GDSC@IPSA - Github** | _Android, Kotlin, Jetpack Compose, Firebase, Gson, MVVM Architecture_ (_June 2021_)
+**📱 GDSC@IPSA - [Github](https://github.com/MohitGupta121/gdsc-android-ipsa)** | _Android, Kotlin, Jetpack Compose, Firebase, Gson, MVVM Architecture_ (_June 2021_)
 - Developed android app for GDSC community under compose camp using Jetpack Compose modern Android UI toolkit.
 - Followed MVVM architecture and all modern Android development practices.
 
