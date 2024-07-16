@@ -2,7 +2,7 @@
 
 #### 🛠️ Technical Skills:
 - **Languages:** C++, Kotlin, Java, Groovy, Javascript/Typescript, GraphQL
-- **Libraries/Frameworks:** Jetpack Compose, Retrofit, Hilt, Navigation Component, Node.js, Express
+- **Libraries/Frameworks:** React Native, Nodejs, Express, Jetpack compose
 - **Tools:** Android Studio, Gradle, Postman, GitHub Actions, Docker, Figma
 - **Platforms:** Unix, Firebase, AWS Amplify
 - **Databases:** SQL, NoSQL, MongoDB, Firestore, Realtime-Database, DynamoDB
